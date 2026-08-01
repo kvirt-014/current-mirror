@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\ASUS\OneDrive\Documents\LTspice\current_mirror (7cm).net
+Start Time: Wed Sep  3 16:56:19 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.114 seconds.
+
+Files loaded:
+C:\Users\ASUS\OneDrive\Documents\LTspice\current_mirror (7cm).net
+C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.bjt
+

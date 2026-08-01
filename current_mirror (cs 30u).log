@@ -1,0 +1,20 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\ASUS\OneDrive\Documents\LTspice\current_mirror (cs 30u).net
+Start Time: Wed Sep  3 16:16:59 2025
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.254 seconds.
+
+Files loaded:
+C:\Users\ASUS\OneDrive\Documents\LTspice\current_mirror (cs 30u).net
+C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\ASUS\OneDrive\Documents\LTspice\tsmc180.lib
+
